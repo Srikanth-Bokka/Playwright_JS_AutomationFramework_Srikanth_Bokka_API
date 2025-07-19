@@ -6,6 +6,8 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://js.org/index.html) 
 
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Playwright HTML Reporter](https://img.shields.io/badge/Playwright%20HTML%20Reporter-<COLOR>?style=for-the-badge&logo=playwright&logoColor=white)](https://www.npmjs.com/package/playwright-html-reporter)
+[![Playwright HTML Reporter](https://img.shields.io/badge/Playwright%20HTML%20Reporter-2E8B57?style=for-the-badge&logo=playwright&logoColor=white)](https://www.npmjs.com/package/playwright-html-reporter)
 [![Allure Report](https://img.shields.io/badge/Allure%20Report-FF6B6B?style=for-the-badge&logo=allure&logoColor=white)](https://docs.qameta.io/allure/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions) 
 
@@ -19,18 +21,9 @@
 - [Configuration](#configuration)
 - [Continuous Integration](#continuous-integration)
 - [Reporting](#reporting)
-- [Other Projects](#other-projects)
-- [Technical Documents](#technical-documents)
-- [Contacts](#contacts)
 
 ## 📖 Introduction
 This repository contains a **Test Automation Framework** built using **Playwright** and **Javascript** for automated testing of **REST APIs**.
-
-<!-- ## 🎥 Video Tutorial
-
-<a href="https://www.youtube.com/watch?v=g0nG6aPbpl4&list=PLrBBHmoBFxBUu9G7haETpa0B03H9GnfKX"> <img src="https://img.youtube.com/vi/g0nG6aPbpl4/0.jpg" alt="Test Automation Framework | WEB | Cypress + JS" width="200"> </a>
-
-Click on the image above to watch the tutorials. -->
 
 ## 🛠️ Prerequisites
 
