@@ -42,13 +42,13 @@ Click on the image above to watch the tutorials. -->
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Srikanth-Bokka/TestAutomationFramework_Srikanth_Bokka_API_Playwright_JS.git
+   git clone https://github.com/Srikanth-Bokka/Playwright_JS_AutomationFramework_Srikanth_Bokka_API.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd TestAutomationFramework_Srikanth_Bokka_API_Playwright_JS
+   cd Playwright_JS_AutomationFramework_Srikanth_Bokka_API
    ```
 
 3. **Install dependencies:**
