@@ -7,7 +7,7 @@
 
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Playwright HTML Reporter](https://img.shields.io/badge/Playwright%20HTML%20Reporter-<COLOR>?style=for-the-badge&logo=playwright&logoColor=white)](https://www.npmjs.com/package/playwright-html-reporter)
-[![Playwright HTML Reporter](https://img.shields.io/badge/Playwright%20HTML%20Reporter-2E8B57?style=for-the-badge&logo=playwright&logoColor=white)](https://www.npmjs.com/package/playwright-html-reporter)
+[![Playwright Allure](https://img.shields.io/badge/Playwright%20Allure-FF6B6B?style=for-the-badge&logo=playwright&logoColor=white)](https://www.npmjs.com/package/allure-playwright)
 [![Allure Report](https://img.shields.io/badge/Allure%20Report-FF6B6B?style=for-the-badge&logo=allure&logoColor=white)](https://docs.qameta.io/allure/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions) 
 
