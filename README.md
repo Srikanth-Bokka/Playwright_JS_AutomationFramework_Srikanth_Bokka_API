@@ -72,8 +72,8 @@ The tests follow a modular and maintainable structure:
 |     |-- workflows
 |          |-- 01_api_tests.yml
 |          |-- 02_api_tests_select_env.yml
-|-- allure-results
-|     |-- (Allure test results)
+|-- allure-results/          # Allure test results (generated after test execution)
+|-- allure-report/           # Allure HTML report (generated after report generation)
 |-- test-data
 |     |-- request-body
 |          |-- users
@@ -102,7 +102,8 @@ The tests follow a modular and maintainable structure:
 |-- playwright.config.js
 ```
 
-- `allure-results`: Contains the Allure test results data.
+- `allure-results`: Contains Allure test results generated after test execution.
+- `allure-report`: Contains the generated Allure HTML report with detailed test analytics and visualizations.
 - `test-data`: Contains external files (example: user create/update data) that can be used to mock data during tests.
 - `tests-reqres`: Contains the actual test files. You can organize your tests into subdirectories as needed. 
 - `utils`: Contains the Utilities that provides methods for asserting different conditions on web elements, handling requests and responses.
@@ -112,7 +113,7 @@ The tests follow a modular and maintainable structure:
 - Modify `playwright.config.js` for playwright configuration settings such as
   - `baseURL`
   - `testDir`
-  - `reporter`
+  - `reporter` (configured for Allure reporting)
 
 ## 🔄 Continuous Integration
 
